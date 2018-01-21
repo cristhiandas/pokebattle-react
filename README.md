@@ -6,7 +6,7 @@ PokeBattle is a re-incarneted 'Tekken' battle game based on the October coding C
 
 ## How To Use:
 
-As this is the front-end of the project, it requires the api data from the other project linked here: https://github.com/LewisYoul/pokebattle
+As this is the front-end of the project, it requires the api data from the other project linked here: https://github.com/cristhiandas/pokebattle
 Once you have this downloaded and running (instructions are on the linked repo, follow the steps below!)
 
 1. Clone repo into project
